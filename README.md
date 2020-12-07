@@ -1,16 +1,70 @@
-### Hi there 👋
+# Minsang Kim (tony9402)
 
-<!--
-**tony9402/tony9402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402)](https://github.com/tony9402)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## School
+  - (2017 ~ ) 숭실대학교 전자정보공학부 전자공학전공
+  - (2018 ~ ) 숭실대학교 컴퓨터학부
+  - (2020 ~ ) 숭실대학교 소프트웨어학부 BigCloud 학부연구생
+
+
+
+## Activity
+  - (2017 ~ ) 숭실대학교 전자정보공학부 소모임 Robotics
+  - (2018 ~ ) 숭실대학교 컴퓨터학부 소모임 SCCC
+  - (2019 ~ 2020) Bixby Crew 1기
+  - (2019) 숭실대학교 Bixby Session 및 Hands On 개최
+  - (2019) 숭실대학교 Bixby Hackathon 개최
+  - (2020) SW Maestro 11기
+
+
+
+## Awards
+  - 로봇 관련 상
+    - (2009) IEF 2009 수원정보과학축제(로봇 서바이벌) (2th)
+    - (2010) 제 7회 대한민국 로봇대전 (3th)
+    - (2010) 제 6회 휴머노이드 로봇 댄스 경연대회 (5th)
+    - (2010) 국제로봇올림피아드 지역예선 (3th)
+    - (2010) 국제로봇올림피아드 한국본선 (3th)
+    - (2010) 국제로봇올림피아드 세계대회(in 호주) (2th, 3th)
+    - (2010) 양영디지털고 특성화경진대회 (2th)
+    - (2010) 경남 고성 공룡로봇코리아 (4th, 5th)
+    - (2010) 로보페스트 지역예선 (1th)
+    - (2010) 로보페스트 전국본선 (1th)
+    - (2010) 전국 학생 로봇경진대회 (3th)
+    - (2010) 충남첨단과학축전 (5th)
+    - (2011) 국제로봇올림피아드 지역예선 (6th)
+    - (2011) 고양시 청소년 과학 로봇 경진대회 (3th)
+    - (2018) Soc Robot War 태권 은상 (3th)
+    
+  - 개발
+    - (2017) 숭실대학교 캡스톤 경진대회 우수상
+    - (2019) 숭실대학교 캡스톤 경진대회 장려상
+    - (2019) Bixby Capsule Challenge (시즌 1) 입선(7th)
+    - (2019) Bixby Capsule Challenge (시즌 2) 동상(4th)
+    - (2019) 숭실대학교 컴퓨터학부 소프트웨어 공모전   동상
+    - (2020) Bixy Crew 2기가 주최하는 Bixby Hackathon 장려상 (3th)
+    - (2020) 숭실대학교 캡스톤 경진대회 은상
+    
+  - 알고리즘
+    - (2019) ICPC Seoul Regional (16th)
+    - (2019) 숭실대학교 교내 알고리즘 대회 SCON 4등 (9th)
+    - (2019) 숭실대학교 교내 알고리즘 대회 Spring Contest 7등 (7th)
+    - (2020) 브랜디 코드네임B 입상 (10th)
+    - (2020) 숭실대학교 IT 대학 알고리즘 대회 3등 (3th)
+    
+  - 기타
+    - (2011) 카이스트 자기주도수학캠프 (1th)
+    - (2012) 교내 브래드보드 경진대회 (2th)
+    - (2012) 카이스트 자기주도수학캠프 (1th)
+    - (2013) 과학전람회 장려상
+    - (2013) 교내 브래드보드 경진대회 (1th)
+    - (2014) 과학전람회 우수상
+    - (2015) 교내 수학, 과학 논술대회 (2th, 2th)
+    
+    
+
+## Project
+  - (TODO)
