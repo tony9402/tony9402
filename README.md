@@ -2,7 +2,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402)](https://github.com/tony9402)
 
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=tony9402&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/tony9402)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 
+[![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=tony9402)](https://solved.ac/tony9402)
 
 ## School
   - (2017 ~ ) 숭실대학교 전자정보공학부 전자공학전공
@@ -22,7 +25,7 @@
 
 
 ## Awards
-  - 로봇 관련 상
+  - 로봇
     - (2009) IEF 2009 수원정보과학축제(로봇 서바이벌) (2th)
     - (2010) 제 7회 대한민국 로봇대전 (3th)
     - (2010) 제 6회 휴머노이드 로봇 댄스 경연대회 (5th)
@@ -47,6 +50,7 @@
     - (2019) 숭실대학교 컴퓨터학부 소프트웨어 공모전   동상
     - (2020) Bixy Crew 2기가 주최하는 Bixby Hackathon 장려상 (3th)
     - (2020) 숭실대학교 캡스톤 경진대회 은상
+    - (2020) 전국 청년 창업 아이디어 경진대회 특별상 (3th)
     
   - 알고리즘
     - (2019) ICPC Seoul Regional (16th)
@@ -65,6 +69,15 @@
     - (2015) 교내 수학, 과학 논술대회 (2th, 2th)
     
     
-
 ## Project
-  - (TODO)
+  - 심박센서를 이용한 무드등
+  - 영상처리(오픈라이브러리 사용 X)를 이용하여 물체 검출
+  - 영상처리를 이용하여 로봇 겨루기
+  - 영상처리를 이용하여 로봇 장애물 피해 달리기
+  - 물건 위치 찾아주는 로봇청소기 (2017 숭실대학교 캡스톤 경진대회)
+  - 스마트미러를 이용한 자세교정 (2019 숭실대학교 캡스톤 경진대회)
+  - Bixby Capsule "버스타자", "롤 하자", "딴 데 가자" 개발
+  - 딥러닝을 이용한 수화번역 시스템 (2020 숭실대학교 캡스톤 경진대회)
+  - DeepFake 검출 솔루션
+  - DeepFake 홈페이지 제작
+  - [각종 알고리즘 공부](https://github.com/tony9402/Algorithm_Templates)
