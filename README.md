@@ -1,5 +1,9 @@
 # Minsang Kim (tony9402)
 
+
+![cover](https://user-images.githubusercontent.com/30228292/101366236-0e64fe80-38e8-11eb-999b-e6eb16ce777b.png)
+
+
 ## Cards
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402)](https://github.com/tony9402)
