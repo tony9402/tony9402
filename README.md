@@ -1,5 +1,7 @@
 # Minsang Kim (tony9402)
 
+## Cards
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402)](https://github.com/tony9402)
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=tony9402&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/tony9402)
@@ -81,3 +83,23 @@
   - DeepFake 검출 솔루션
   - DeepFake 홈페이지 제작
   - [각종 알고리즘 공부](https://github.com/tony9402/Algorithm_Templates)
+
+## Interest
+ - Languages
+   - C/C++
+   - Python
+   - Java
+   
+ - Frameworks
+   - Pytorch, Tensorflow
+   - Flask, Sanic
+   - Node.js
+   
+ - Problem Solving
+   - [Codeforces](https://codeforces.com/profile/BixbyCrew)
+   - [Baekjoon](https://www.acmicpc.net/user/tony9402)
+   - [Codeup](https://codeup.kr/userinfo.php?user=tony9402)
+  
+## Contacts
+  - Github Repo Issue
+  - Email
