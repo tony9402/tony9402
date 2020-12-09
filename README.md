@@ -7,11 +7,15 @@
 ## Cards
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402)](https://github.com/tony9402)
+[![Github Followers](https://img.shields.io/github/followers/tony9402?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/utilForever?tab=followers)
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=tony9402&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/tony9402)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=tony9402)](https://solved.ac/tony9402)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tony9402&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## School
   - (2017 ~ ) 숭실대학교 전자정보공학부 전자공학전공
