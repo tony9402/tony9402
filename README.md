@@ -12,7 +12,7 @@
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=tony9402&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/tony9402)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tony9402)](https://solved.ac/tony9402)
+[![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=tony9402)](https://solved.ac/tony9402)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tony9402&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
