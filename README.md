@@ -58,9 +58,8 @@
     - (2019) Bixby Capsule Challenge (시즌 1) 입선(7th)
     - (2019) Bixby Capsule Challenge (시즌 2) 동상(4th)
     - (2019) 숭실대학교 컴퓨터학부 소프트웨어 공모전   동상
-    - (2020) Bixy Crew 2기가 주최하는 Bixby Hackathon 장려상 (3th)
+    - (2020) Bibxy Crew 2기가 주최하는 Bixby Hackathon 장려상 (3th)
     - (2020) 숭실대학교 캡스톤 경진대회 은상
-    - (2020) 전국 청년 창업 아이디어 경진대회 특별상 (3th)
     
   - 알고리즘
     - (2019) ICPC Seoul Regional (16th)
