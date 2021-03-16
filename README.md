@@ -11,10 +11,10 @@
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=tony9402&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/tony9402)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
-
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tony9402)](https://solved.ac/tony9402)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tony9402&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tony9402&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)  
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=tony9402&)](#)
 
 
 ## School
@@ -31,8 +31,18 @@
   - (2019) 숭실대학교 Bixby Session 및 Hands On 개최
   - (2019) 숭실대학교 Bixby Hackathon 개최
   - (2020) SW Maestro 11기
-
-
+  - (2020 ~ ) 알고리즘 출제 및 검수
+    - <문제 출제 및 검수> [2020 숭고한 연합 Algorithm Camp Marathon](https://www.acmicpc.net/category/detail/2269)
+    - <외부 검수진> [제2회 가톨릭대학교 프로그래밍 경진대회 (CCPC)](https://www.acmicpc.net/contest/view/556)
+    - <외부 검수진> [제1회 류호석배 알고리즘 코딩 테스트](https://www.acmicpc.net/contest/view/557)
+    - <외부 검수진> [2020 중앙대학교 프로그래밍 경진대회(CPC)](https://www.acmicpc.net/contest/view/549)
+    - <외부 검수진> [Zero One Algorithm Contest 2020](https://www.acmicpc.net/contest/view/561)
+    - <외부 검수진> [2020 인하대학교 프로그래밍 경진대회(IUPC)](https://www.acmicpc.net/contest/view/580)
+    - <외부 검수진> [2020 경인지역 6개대학 연합 프로그래밍 경시대회 shake!](https://www.acmicpc.net/contest/view/591)
+    - <외부 검수진> [2021 ICPC Sinchon Winter Algorithm Camp Contest](https://www.acmicpc.net/contest/view/590)
+    - <외부 검수진> [2021 IGRUS Newbie Programming Contest](https://www.acmicpc.net/contest/view/601)
+    - <외부 검수진> [제2회 류호석배 알고리즘 코딩 테스트](https://www.acmicpc.net/contest/view/603)
+    - <외부 검수진> [제1회 가톨릭대학교 프로그래밍 경진대회 (CCPC) (대회 이후 재검수에 참여)](https://www.acmicpc.net/contest/view/486)
 
 ## Awards
   - 로봇
@@ -90,6 +100,7 @@
   - DeepFake 검출 솔루션
   - DeepFake 홈페이지 제작
   - [각종 알고리즘 공부](https://github.com/tony9402/Algorithm_Templates)
+  - [코딩테스트 대비 문제집(백준)](https://github.com/tony9402/baekjoon)
 
 ## Interest
  - Languages
@@ -108,5 +119,5 @@
    - [Codeup](https://codeup.kr/userinfo.php?user=tony9402)
   
 ## Contacts
-  - Github Repo Issue
-  - Email
+  - [Github Repo Issue](https://github.com/tony9402/tony9402/issues)
+  - [Email](mailto:tony9402@naver.com)
