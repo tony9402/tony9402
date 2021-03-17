@@ -31,7 +31,7 @@
   - (2019) 숭실대학교 Bixby Session 및 Hands On 개최
   - (2019) 숭실대학교 Bixby Hackathon 개최
   - (2020) SW Maestro 11기
-  - (2020 ~ ) 알고리즘 출제 및 검수
+  - (2020 ~ ) 알고리즘 문제 출제 및 검수
     - <문제 출제 및 검수> [2020 숭고한 연합 Algorithm Camp Marathon](https://www.acmicpc.net/category/detail/2269)
     - <외부 검수진> [제2회 가톨릭대학교 프로그래밍 경진대회 (CCPC)](https://www.acmicpc.net/contest/view/556)
     - <외부 검수진> [제1회 류호석배 알고리즘 코딩 테스트](https://www.acmicpc.net/contest/view/557)
