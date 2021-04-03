@@ -123,5 +123,6 @@
   - [Email](mailto:tony9402@naver.com)
 
   
-  
-<a href="https://donaricano.com/mypage/1684784165_4f_1hR" target="_blank"><img src="https://d1u4yishnma8v5.cloudfront.net/donarincano_gift.png" alt="donaricano-btn" style="height: 70px !important;width: 200px !important;" /></a>
+## Buy me a coffee
+
+[커피 후원하기](https://donaricano.com/mypage/1684784165_4f_1hR)
