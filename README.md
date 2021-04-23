@@ -119,7 +119,7 @@
    - Node.js
    
  - Problem Solving
-   - [Codeforces](https://codeforces.com/profile/BixbyCrew)
+   - [Codeforces](https://codeforces.com/profile/alstkd)
    - [Baekjoon](https://www.acmicpc.net/user/tony9402)
    - [Codeup](https://codeup.kr/userinfo.php?user=tony9402)
   
