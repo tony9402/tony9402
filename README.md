@@ -127,3 +127,7 @@
   - [Github Repo Issue](https://github.com/tony9402/tony9402/issues)
   - [Email](mailto:tony9402@naver.com)
 
+
+## Others
+
+![Github Graph](https://activity-graph.herokuapp.com/graph?username=tony9402&area=false&theme=xcode&hide_border=true)
