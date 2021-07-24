@@ -13,7 +13,7 @@
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tony9402)](https://solved.ac/tony9402)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tony9402&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=tony9402&)](#)
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=tony9402)](#)
 
 
 ## School
