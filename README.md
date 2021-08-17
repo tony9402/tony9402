@@ -45,7 +45,8 @@
     - <외부 검수진> [제2회 류호석배 알고리즘 코딩 테스트](https://www.acmicpc.net/contest/view/603)
     - <외부 검수진> [제1회 가톨릭대학교 프로그래밍 경진대회 (CCPC) (대회 이후 재검수에 참여)](https://www.acmicpc.net/contest/view/486)
     - <외부 검수진> [제3회 류호석배 알고리즘 코딩 테스트](https://www.acmicpc.net/contest/view/666)
-    - <문제 출제> [FastCampus](https://fastcampus.co.kr/dev_online_codingtest) 문제 출제 중
+    - <문제 출제> [FastCampus](https://fastcampus.co.kr/dev_online_codingtest) 문제 출제
+    - <외부 검수진> [중앙대학교 NPC](https://www.acmicpc.net/contest/view/683)
   - (2021) ["자료구조와 알고리즘을 함께 JAVA!"](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791165920579) 베타 리뷰
   - (2021 ~ ) 소프트웨어 마에스트로 프로젝트인 DeepFakes 검출 후속 연구 진행중
   - (2021 ~ ) NLP 연구 진행중
