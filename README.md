@@ -32,6 +32,9 @@
   - (2019) 숭실대학교 Bixby Session 및 Hands On 개최
   - (2019) 숭실대학교 Bixby Hackathon 개최
   - (2020) SW Maestro 11기 수료
+  - (2021) ["자료구조와 알고리즘을 함께 JAVA!"](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791165920579) 베타 리뷰
+  - (2021 ~ ) 소프트웨어 마에스트로 프로젝트인 DeepFakes 검출 후속 연구 진행중
+  - (2021 ~ ) [NLP 연구 진행중](http://www.ipdaily.co.kr/2021/11/20/20/54/37/17551/%ED%8A%B9%ED%97%88%EC%97%90-%EC%B5%9C%EC%A0%81%ED%99%94%EB%90%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5ai-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-%EC%84%A0%EB%B3%B4%EC%9D%B8%EB%8B%A4-%ED%82%A4/)
   - (2020 ~ ) 알고리즘 문제 출제 및 검수
     - <문제 출제 및 검수> [2020 숭고한 연합 Algorithm Camp Marathon](https://www.acmicpc.net/category/detail/2269)
     - <외부 검수진> [제2회 가톨릭대학교 프로그래밍 경진대회 (CCPC)](https://www.acmicpc.net/contest/view/556)
@@ -54,9 +57,48 @@
     - <외부 검수진> [제 3회 가톨릭대학교 프로그래밍 경진대회 (CCPC)](https://www.acmicpc.net/contest/view/690)
     - <외부 검수진> [INU 코드페스티벌 2021](https://www.acmicpc.net/contest/view/728)
     - <대회 문제 출제> [2021 경인지역 6개대학 연합 프로그래밍 경시대회 shake!](https://www.acmicpc.net/contest/view/746)
-  - (2021) ["자료구조와 알고리즘을 함께 JAVA!"](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791165920579) 베타 리뷰
-  - (2021 ~ ) 소프트웨어 마에스트로 프로젝트인 DeepFakes 검출 후속 연구 진행중
-  - (2021 ~ ) [NLP 연구 진행중](http://www.ipdaily.co.kr/2021/11/20/20/54/37/17551/%ED%8A%B9%ED%97%88%EC%97%90-%EC%B5%9C%EC%A0%81%ED%99%94%EB%90%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5ai-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-%EC%84%A0%EB%B3%B4%EC%9D%B8%EB%8B%A4-%ED%82%A4/)
+    - <기타 검수> 
+    <details>
+    <summary>더보기</summary>
+      <li><a href="https://www.acmicpc.net/problem/23807">두 단계 최단 경로 3</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23808">골뱅이 찍기 - ㅂ</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23809">골뱅이 찍기 - 돌아간 ㅈ</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23810">골뱅이 찍기 - 뒤집힌 ㅋ</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23811">골뱅이 찍기 - ㅌ</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23812">골뱅이 찍기 - 돌아간 ㅍ</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23840">두 단계 최단 경로 4</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23881">알고리즘 수업 - 선택 정렬 1</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23882">알고리즘 수업 - 선택 정렬 2</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23883">알고리즘 수업 - 선택 정렬 3</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23884">알고리즘 수업 - 선택 정렬 4</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23899">알고리즘 수업 - 선택 정렬 5</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23900">알고리즘 수업 - 선택 정렬 6</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23968">알고리즘 수업 - 버블 정렬 1</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23969">알고리즘 수업 - 버블 정렬 2</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23970">알고리즘 수업 - 버블 정렬 3</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24051">알고리즘 수업 - 삽입 정렬 1</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24052">알고리즘 수업 - 삽입 정렬 2</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24053">알고리즘 수업 - 삽입 정렬 3</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24054">알고리즘 수업 - 삽입 정렬 4</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24055">알고리즘 수업 - 삽입 정렬 5</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24056">알고리즘 수업 - 삽입 정렬 6</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24060">알고리즘 수업 - 병합 정렬 1</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24061">알고리즘 수업 - 병합 정렬 2</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24062">알고리즘 수업 - 병합 정렬 3</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24090">알고리즘 수업 - 퀵 정렬 1</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24091">알고리즘 수업 - 퀵 정렬 2</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24092">알고리즘 수업 - 퀵 정렬 3</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24173">알고리즘 수업 - 힙 정렬 1</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24174">알고리즘 수업 - 힙 정렬 2</a></li>
+      <li><a href="https://www.acmicpc.net/problem/23721">k개의 부분 배열과 쿼리</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24049">정원 (Easy)</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24050">정원 (Hard)</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24057">실수</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24058">Coprime</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24059">Function</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24064">Intersections</a></li>
+      <li><a href="https://www.acmicpc.net/problem/24065">Present</a></li>
+    </details>
 
 ## Awards
   - 로봇
