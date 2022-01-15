@@ -22,7 +22,7 @@
   - (2020 ~ ) 숭실대학교 소프트웨어학부 BigCloud 학부연구생
   - (2021)    숭실대학교 1학기 복학
   - (2021.08) 숭실대학교 학부 졸업
-  - (2021.09) 숭실대학교 대학원 입학 확정
+  - (2021.09 ~ ) 숭실대학교 대학원 (현재 2학기)
 
 
 ## Activity
@@ -47,10 +47,16 @@
     - <외부 검수진> [제3회 류호석배 알고리즘 코딩 테스트](https://www.acmicpc.net/contest/view/666)
     - <문제 출제> [FastCampus](https://fastcampus.co.kr/dev_online_codingtest) 문제 출제
     - <외부 검수진> [중앙대학교 NPC](https://www.acmicpc.net/contest/view/683)
+    - <외부 검수진> [제3회 가톨릭대학교 프로그래밍 경진대회 (CCPC)](https://www.acmicpc.net/contest/view/689)
+    - <외부 검수진> [2021 인하대학교 프로그래밍 경진대회(IUPC)](https://www.acmicpc.net/contest/view/709)
+    - <외부 검수진> [선린 가을맞이 알고리즘 챌린지](https://www.acmicpc.net/contest/view/708)
+    - <외부 검수진> [2021 연세대학교 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/700)
     - <외부 검수진> [제 3회 가톨릭대학교 프로그래밍 경진대회 (CCPC)](https://www.acmicpc.net/contest/view/690)
+    - <외부 검수진> [INU 코드페스티벌 2021](https://www.acmicpc.net/contest/view/728)
+    - <대회 문제 출제> [2021 경인지역 6개대학 연합 프로그래밍 경시대회 shake!](https://www.acmicpc.net/contest/view/746)
   - (2021) ["자료구조와 알고리즘을 함께 JAVA!"](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791165920579) 베타 리뷰
   - (2021 ~ ) 소프트웨어 마에스트로 프로젝트인 DeepFakes 검출 후속 연구 진행중
-  - (2021 ~ ) NLP 연구 진행중
+  - (2021 ~ ) [NLP 연구 진행중](http://www.ipdaily.co.kr/2021/11/20/20/54/37/17551/%ED%8A%B9%ED%97%88%EC%97%90-%EC%B5%9C%EC%A0%81%ED%99%94%EB%90%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5ai-%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8-%EC%84%A0%EB%B3%B4%EC%9D%B8%EB%8B%A4-%ED%82%A4/)
 
 ## Awards
   - 로봇
