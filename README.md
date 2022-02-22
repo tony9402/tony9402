@@ -15,6 +15,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tony9402&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=tony9402)](#)
 
+<a href="https://opgc.me/#/users/tony9402" target="_blank"><img src="https://api.opgc.me/githubs/users/tony9402/tag/?border=normal" /></a>
+
 
 ## School
   - (2017 ~ 2021) 숭실대학교 전자정보공학부 전자공학전공
