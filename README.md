@@ -23,7 +23,7 @@
   - (2018 ~ 2021) 숭실대학교 컴퓨터학부
   - (2020 ~ 2021) 숭실대학교 소프트웨어학부 BigCloud 학부연구생
   - (2021.08) 숭실대학교 학부 졸업
-  - (2021.09 ~ ) 숭실대학교 대학원 (현재 2학기)
+  - (2021.09 ~ ) 숭실대학교 대학원 (현재 3학기)
 
 
 ## Activity
@@ -58,6 +58,21 @@
     - <외부 검수진> [제 3회 가톨릭대학교 프로그래밍 경진대회 (CCPC)](https://www.acmicpc.net/contest/view/690)
     - <외부 검수진> [INU 코드페스티벌 2021](https://www.acmicpc.net/contest/view/728)
     - <대회 문제 출제> [2021 경인지역 6개대학 연합 프로그래밍 경시대회 shake!](https://www.acmicpc.net/contest/view/746)
+    - <외부 검수진> [가희와 함께 하는 3회 코딩테스트](https://www.acmicpc.net/contest/view/755)
+    - <외부 검수진> [2022 중앙대학교 CHAC(ChAOS Hello2022 Algorithm Contest)](https://www.acmicpc.net/contest/view/766)
+    - <외부 검수진> [2022 ICPC Sinchon Winter Algorithm Camp Contest](https://www.acmicpc.net/contest/view/760)
+    - <외부 검수진> [2022 성균관대학교 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/771)
+    - <외부 검수진> [2022 연세대학교 신학기맞이 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/776)
+    - <내부 검수진> [2022 숭고한 연합 알고리즘 콘테스트](https://www.acmicpc.net/contest/view/786)
+    - <외부 검수진> [2022 DGIST 현풍전산배 알고리즘 대회](https://www.acmicpc.net/contest/view/799)
+    - <외부 검수진> [2022 서강대학교 청정수컵](https://www.acmicpc.net/contest/view/798)
+    - <외부 검수진> [제4회 가톨릭대학교 프로그래밍 경진대회 (CCPC)](https://www.acmicpc.net/contest/view/775)
+    - <외부 검수진> [제1회 곰곰컵](https://www.acmicpc.net/contest/view/792)
+    - <외부 검수진> [가희와 함께 하는 코딩테스트 4회](https://www.acmicpc.net/contest/view/819)
+    - <외부 검수진> [2022 ICPC Sinchon Summer Algorithm Camp Contest](https://www.acmicpc.net/contest/view/843)
+    - <외부 검수진> [2022 부산대학교 CodeRace](https://www.acmicpc.net/contest/view/859)
+    - <외부 검수진> [2022 중앙대학교 프로그래밍 경진대회(CPC)](https://www.acmicpc.net/contest/view/866)
+    - <외부 검수진> [제1회 서울과학기술대학교 컴퓨터공학과 알고리즘 대회](https://www.acmicpc.net/contest/view/880)
     - <기타 검수> 
     <details>
     <summary>더보기</summary>
@@ -172,9 +187,10 @@
    - Node.js
    
  - Problem Solving
-   - [Codeforces](https://codeforces.com/profile/alstkd)
+   - [Codeforces](https://codeforces.com/profile/__LGM__)
    - [Baekjoon](https://www.acmicpc.net/user/tony9402)
    - [Codeup](https://codeup.kr/userinfo.php?user=tony9402)
+   - [leetcode](https://leetcode.com/tony9402/)
   
 ## Contacts
   - [Github Repo Issue](https://github.com/tony9402/tony9402/issues)
