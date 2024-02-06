@@ -281,7 +281,7 @@
   - 특허 분류 모델 성능 향상 연구
   - 특허 요약 연구
   - [코딩테스트 대비 문제집(백준)](https://github.com/tony9402/baekjoon)
-  - [알고리즘 문제집](https://algorithm.tony9402.com)
+  - [코딩테스트 대비 문제집(백준, 릿코드, 해커랭크, 프로그래머스...)](https://algorithm.tony9402.com)
 
 ## Interest
  - Languages
