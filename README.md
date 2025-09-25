@@ -5,7 +5,8 @@
 
 ## Cards
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402)](https://github.com/tony9402)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftony9402)](https://github.com/tony9402)-->
+![view](https://komarev.com/ghpvc/?username=tony9402&label=views&style=flat&color=111f51)
 [![Github Followers](https://img.shields.io/github/followers/tony9402?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/tony9402?tab=followers)
 
 <br>
