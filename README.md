@@ -11,22 +11,31 @@
 
 <br>
 
+<!--
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=tony9402&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/tony9402)
 <br>
+-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&langs_count=8)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&langs_count=8)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony9402&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--
+<br>
+-->
+
+[![SolvedAC tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=tony9402)](https://solved.ac/tony9402)
+
 <br>
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=tony9402)](https://solved.ac/tony9402)
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tony9402&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-git-master-ryo-ma-s-team.vercel.app/?username=tony9402&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=tony9402)](#)
 
-<a href="https://opgc.me/#/users/tony9402" target="_blank"><img src="https://api.opgc.me/githubs/users/tony9402/tag/?border=normal" /></a>
+<br>
+
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjMwMjI4Mjky)](https://www.git-ranker.com/ko/users/tony9402)
+
+<!--<a href="https://opgc.me/#/users/tony9402" target="_blank"><img src="https://api.opgc.me/githubs/users/tony9402/tag/?border=normal" /></a>-->
 
 
 ## Education
